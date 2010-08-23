@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
 ## Ryan Elmore
-## 1 Aug 2010
-## Writing a scraper for baseball-reference.com
+## 12 Aug 2010
+## Scraping the Major League Soccer Site
 
 import urllib
 import urllib2

@@ -2,6 +2,14 @@
 ## 22 Aug 2010
 ## MLS scratch pad
 
+## Copyright (c) 2010, under the Simplified BSD License.  
+## For more information on FreeBSD see: 
+##      http://www.opensource.org/licenses/bsd-license.php
+## All rights reserved.                      
+
+## I don't even know what that means, but other repositories tend to
+##  have something like that! 
+
 ggplot(data = mls.reg.dat, aes(x = a_tot, y = sog)) + geom_point() + 
   facet_wrap(~ team)
 

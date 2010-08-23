@@ -2,6 +2,14 @@
 ## 12 Aug 2010
 ## MLS R setup file
 
+## Copyright (c) 2010, under the Simplified BSD License.  
+## For more information on FreeBSD see: 
+##      http://www.opensource.org/licenses/bsd-license.php
+## All rights reserved.                      
+
+## I don't even know what that means, but other repositories tend to
+##  have something like that! 
+
 setwd(wd.path)
 
 mls.reg.dat <- read.table("../data/mls_reg_season_20100812.csv",

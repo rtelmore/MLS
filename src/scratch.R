@@ -8,7 +8,7 @@
 ## All rights reserved.                      
 
 ## I don't even know what that means, but other repositories tend to
-##  have something like that! 
+##  have something similar (if not exact -- Thanks Drew Conway)! 
 
 ggplot(data = mls.reg.dat, aes(x = a_tot, y = sog)) + geom_point() + 
   facet_wrap(~ team)

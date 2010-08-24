@@ -8,7 +8,7 @@
 ## All rights reserved.                      
 
 ## I don't even know what that means, but other repositories tend to
-##  have something like that! 
+##  have something similar (if not exact -- Thanks Drew Conway)! 
 
 setwd(wd.path)
 
